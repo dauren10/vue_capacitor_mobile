@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">vu1</string>
+    <string name="title_activity_main">vu1</string>
+    <string name="package_name">kz.app</string>
+    <string name="custom_url_scheme">kz.app</string>
+</resources>

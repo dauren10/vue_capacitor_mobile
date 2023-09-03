@@ -1,0 +1,8 @@
+{
+  "appId": "kz.app",
+  "appName": "vu1",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
